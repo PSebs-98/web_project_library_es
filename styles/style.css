@@ -387,7 +387,7 @@
   text-decoration: none;
   display: flex;
   flex-direction: row;
-  align-items: start;
+  align-items: center;
   column-gap: 10px;
 }
 
